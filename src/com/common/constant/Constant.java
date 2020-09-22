@@ -1,5 +1,5 @@
 package com.common.constant;
 
 public class Constant {
-	public static int START_SEQ = 1;
+	public static int START_SEQ = 2;
 }
