@@ -1,5 +1,5 @@
 package com.common.util;
 
 public class Tool {
-    private static int i = 1;
+    private static int i = 2;
 }
