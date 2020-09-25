@@ -6,7 +6,6 @@ public class Test {
          * 北京市：经度：116.40   纬度：39.90
          * 上海市：经度：121.47   纬度：31.23
          */
-
 		String lon1 = "116.40";
         String lat1 = "39.90";
         String lon2 = "121.47";
@@ -38,4 +37,7 @@ public class Test {
 		return  String.valueOf(distanceAdress);
 
 	}
+	/**
+	 * zhushi 1
+	 */
 }

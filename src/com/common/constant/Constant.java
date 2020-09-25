@@ -1,6 +1,7 @@
 package com.common.constant;
 
 public class Constant {
-	public static int START_SEQ = 3;
+	public static int START_SEQ = 7;
 
+	//dda
 }
