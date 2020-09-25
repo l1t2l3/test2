@@ -6,13 +6,13 @@ public class Test {
          * 北京市：经度：116.40   纬度：39.90
          * 上海市：经度：121.47   纬度：31.23
          */
-		String lon1 = "116.40";
-        String lat1 = "39.90";
-        String lon2 = "121.47";
-        String lat2 = "31.23";
-        String distance = calculateDistanceByPoint(lon1, lat1, lon2, lat2);
+	String lon1 = "116.40";
+	String lat1 = "39.90";
+	String lon2 = "121.47";
+	String lat2 = "31.23";
+	String distance = calculateDistanceByPoint(lon1, lat1, lon2, lat2);
         System.out.println("两点之间的距离：" + distance);
-	}
+}
 
 	/**
 	 * calculate distance by longitude and latitude
